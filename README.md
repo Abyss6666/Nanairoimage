@@ -1,2 +1,3 @@
-# Nanairoimage
-NanairoFumenPack's Image storage
+# my-images
+これは画像置き場用のリポジトリです。
+Wikiにリンクする画像を管理しています。
